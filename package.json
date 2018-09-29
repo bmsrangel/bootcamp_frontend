@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp",
+  "version": "0.1.0",
+  "description": "curso de frontend do sabado",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Rangel <bmsrangel@hotmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^3.8.1",
+    "stylus": "^0.54.5"
+  }
+}
